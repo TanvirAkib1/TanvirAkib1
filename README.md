@@ -25,18 +25,39 @@ Currently, I'm seeking opportunities to apply my skills through internships or d
 
 ---
 
+<h3> 💠 Connect me :</h3>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:mdakib845@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/><br>Gmail
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/tanvir.islam.131350">
+        <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40"/><br>Facebook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/tanvir__akib">
+        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/><br>Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/tanvir-akib-63314526b">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/><br>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/MDTanvirIslamAk">
+        <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40"/><br>Twitter
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3> 💠 Connect me :</h3>
-
-<p align="left">
-  <a href="mailto:mdakib845@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/tanvir.islam.131350" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/tanvir__akib" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/tanvir-akib-63314526b" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://x.com/MDTanvirIslamAk" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/></a>
-</p>
 
 ⭐ *“Turning data into insights, and insights into action.”*
