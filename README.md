@@ -29,11 +29,34 @@ Currently, I'm seeking opportunities to apply my skills through internships or d
 
 ---
 
-### 🌐 Connect with Me
-📧 **Email:** [mdakib845@gmail.com](mailto:mdakib845@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/tanvir-akib-63314526b](https://www.linkedin.com/in/tanvir-akib-63314526b)  
-💻 **GitHub:** [github.com/TanvirAkib1](https://github.com/TanvirAkib1)
+<h3> 💠 Connect me :</h3>
 
+<p align="left">
+  <!-- Gmail -->
+  <a href="mailto:mdakib845@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/tanvir.islam.131350" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="tanvir__akib" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/tanvir-akib-63314526b" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <!-- Twitter -->
+  <a href="https://x.com/MDTanvirIslamAk" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
 ---
 
 ⭐ *“Turning data into insights, and insights into action.”*
